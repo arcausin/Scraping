@@ -32,9 +32,9 @@ for i in records:
 
 print(dictionary)
 
-j'ai essayer de créer un dictionaire avec ma liste mais je n'ai pas réussie.
-l'idée était de faire une requete utilisateur avec un input pour demander pour quel champion on veut récupérer les informations.
-Je n'ai malheuresement pas réussie a récupérer le get_text() directement du tr pour une raison inconnu
+j'ai essayé de créer un dictionnaire avec ma liste mais je n'ai pas réussi.
+l'idée était de faire une requête utilisateur avec un input pour demander pour quel champion on veut récupérer les informations.
+Je n'ai malheureusement pas réussi à récupérer le get text() directement du tr pour une raison inconnue
 """
 print(title)
 print(description)
